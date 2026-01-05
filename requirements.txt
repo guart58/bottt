@@ -34,6 +34,7 @@ django-user-accounts==3.2.0
 dm-tree==0.1.8
 dnspython==2.6.1
 docutils==0.20.1
+dotenv==0.9.9
 EasyProcess==1.1
 email_validator==2.1.1
 entrypoint2==1.1
@@ -211,4 +212,5 @@ wrapt==1.14.1
 yarl==1.8.1
 zipp==3.15.0
 zope.interface==5.5.1
+
 
