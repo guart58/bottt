@@ -1,7 +1,6 @@
 import nextcord
 import nextcord.ui
 import random
-import peewee
 import json
 import urllib.request
 from nextcord.ext import commands
