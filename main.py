@@ -2,6 +2,7 @@ import nextcord
 import nextcord.ui
 import random
 import json
+import os
 import urllib.request
 from nextcord.ext import commands
 from datetime import datetime, timedelta
@@ -126,4 +127,4 @@ async def sync(ctx):
 
 
 
-bot.run(settings['token'])
+bot.run(os.getenv('BOT_TOKEN'))
