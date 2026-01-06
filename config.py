@@ -1,5 +1,5 @@
 settings = {
-    'token': token,
+    'token': TOKEN,
     'bot': 'Ulyana bulbasavr',
     'id': 1457730874324815905,
     'prefix': '?',
